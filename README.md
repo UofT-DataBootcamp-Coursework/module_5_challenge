@@ -44,6 +44,7 @@
 Experienced challenges with final formatting of the line plot, specifically with re-labelling the x-ticks to the desired outcome. 
 
 Initial Plot:
+
 ![](images/tech_challenge_pre.PNG)
 
 After spending some time researching different ways to change the x-tick structure, witnessed a classmate explaining the same struggle to the instructor during Tuesday office hours, and paid attention to the solution the instructor provided. To ensure I was not simply copying code, spend some time afterwards re-reviewing the technical literature the instructor recommended to review to ensure I thoroughly understood the correction to my code. 
@@ -51,9 +52,11 @@ After spending some time researching different ways to change the x-tick structu
 Source of information: https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.xticks.html
 
 Code fix:
+
 ![](images/tech_challenge_code_fix.PNG)
 
 Final result:
+
 ![](images/tech_challenge_code_post.PNG)
 
 ### Recommendations and Next Steps
