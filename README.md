@@ -13,6 +13,20 @@
 
 ## Challenge Summary
 
+### 1. Summary DataFrame
+
+![](images/Tech_Analysis_1_Summary_DataFrame.PNG)
+
+*please see PyBer_challenge.ipynb for related code
+
+### 2. Multi-Line Plot for the Sum of the Fares for Each City Type
+
+![](images/Tech_Analysis_2_Multi-Line_Plot.PNG) 
+
+*please see PyBer_challenge.ipynb for related code
+
+### 3. Written Analysis
+
 The first paragraph should include the following:
 
 - Describe the purpose, or the reason, you did this assignment.
@@ -31,4 +45,5 @@ The third paragraph should include the following:
 - Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
 - What technical steps would you take to perform the additional analyses?
 
-## Appendix
+## Report Completed By:
+![](images/salvador_and_I.jpg)
