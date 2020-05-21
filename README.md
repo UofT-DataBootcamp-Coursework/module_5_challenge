@@ -57,7 +57,7 @@ Code fix:
 
 Final result:
 
-![](images/tech_challenge_code_post.PNG)
+![](images/tech_challenge_post.PNG)
 
 ### Recommendations and Next Steps
 
