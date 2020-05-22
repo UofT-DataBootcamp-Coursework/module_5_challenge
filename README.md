@@ -7,7 +7,7 @@
 
 2. Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
 
-3. Delivering Results: A written report of explaining the results of both technical analyses.
+3. Delivering Results: A written report explaining the results of both technical analyses.
 
 ## Resources
 
