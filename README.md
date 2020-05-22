@@ -11,7 +11,9 @@
 
 ## Resources
 
+Data Source: city_data.csv, ride_data.csv
 
+Software: Python 3.7.6 with Pandas, Numpy, and Matplotlib dependencies; Anaconda; Jupyter Notebook
 
 ## Challenge Summary
 
@@ -21,7 +23,7 @@
 
 *please see PyBer_challenge.ipynb for related code
 
-### 2. Multi-Line Plot for the Sum of the Fares for Each City Type
+### 2. Multiple-Line Chart for the Sum of the Fares for Each City Type
 
 ![](images/Tech_Analysis_2_Multi-Line_Plot.PNG) 
 
@@ -31,7 +33,7 @@
 
 ### Backgroung and Results
 
-The purpose of this assignment is to provide the CEO of PyBer a summary of total rides, total drivers and total fares per city type in order to determine the overall profitability of each city type as well as note any trends in total fares between the period January 01, 2019 to April 28, 2019 per city type. Data was first aggregated by the total rides, drivers, and fares by city type (Rural, Surburban, and Urban), then the average fare per ride and per driver was calculated, to produce a summary of overall results. Next, the data was reorganized by datestamp in order to create a new mulitiple line chart that displays the sum of the fares per city type per week across the period of January 1, 2019 to April 28, 2019. 
+The purpose of this assignment is to provide the CEO of PyBer a summary of total rides, total drivers and total fares per city type in order to determine the overall profitability of each city type as well as note any trends in total fares between the period January 01, 2019 to April 28, 2019 per city type. Data was first aggregated by the total rides, drivers, and fares by city type (Rural, Surburban, and Urban), then the average fare per ride and per driver was calculated to produce a summary of overall results by city type. Next, the data was reorganized by datestamp and summarized by week in order to create a new mulitiple line chart that displays the sum of the fares per city type per week across the period of January 1, 2019 to April 28, 2019. 
 
 While the Urban city type generated the highest amount of total fares ($39.8k), average fare per driver was the lowest (AFpD = $16.57) as Urban city type was over saturated with drivers. Though Rural city type generated the lowest amount of total fares ($4.3k) for the period, average fare per ride and per driver were the highest (AFpR = $34.62 and AFpD = $55.49) due to the limited number of drivers, smaller population, and the probable greater distances required to travel. Further, between January 1, 2019 and April 28, 2019 it appears there was greater volatility of fare revenue for both Urban and Suburban city types while Rural city type appears to be very consistent. There is evidence that population density and geographic distance are major factors that contribute to the profitability per ride and per driver, while lifestyle contributes heavily to the daily useage of PyBer.
 
